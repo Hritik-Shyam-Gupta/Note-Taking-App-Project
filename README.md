@@ -23,6 +23,7 @@ Evernote clone is a basic note taking application similar in functionality to Ev
 
 # Evernote Clone (ReactJS - Firebase)
 
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -38,7 +39,7 @@ Once finished, make sure your .env file (or whatever you rename it to) is includ
 - Create a project(web) and a cloud firestore Databse on Firebase in your account.
 - Setup Sign-in method by enabling email/password in Authentication tab.
 
-###First Step
+### First Step
 
 - cd into the Evernote-editor directory
 
