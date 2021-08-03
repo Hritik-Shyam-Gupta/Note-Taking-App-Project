@@ -1,6 +1,6 @@
 # Project Description!
 
-This is a Summer-internship 2021 Project of creating a Note Taking Web Application (An Evernote CLone) by the Students of Dayalbagh Educational Institute.
+This is a Summer-Internship 2021 Project of creating a Note Taking Web Application (An Evernote CLone) by the Students of Dayalbagh Educational Institute.
 
 Evernote clone is a basic note taking application similar in functionality to Evernote.
 
